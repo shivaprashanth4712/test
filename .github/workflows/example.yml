@@ -16,7 +16,7 @@ permissions: read-all|write-all
 #   repository-projects: read|write|none
 #   security-events: read|write|none
 #   statuses: read|write|none
-# jobs:
+jobs:
   build:
     runs-on: ubuntu-latest
     steps:
